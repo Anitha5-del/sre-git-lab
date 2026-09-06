@@ -1,1 +1,1 @@
-production monitorning is disabled
+production monitoring configuration needs review
